@@ -1,0 +1,13 @@
+{
+  "id": 12345,
+  "image": "https://media.istockphoto.com/id/1459584202/photo/vertical-picture-of-a-brunette-male-in-a-white-shirt-against-an-ocean.jpg?s=612x612&w=is&k=20&c=l-knm2urhqXcZdj3ivBCEIGFHqSgWr4QrMcsqPA44DY=",
+  "name": "Ahmad Al-Nawaiseh",
+  "email": "ahmad.alnawaiseh@example.com",
+  "phone": "+962-7-234-5678",
+  "address": {
+    "street": "King Abdullah II Street",
+    "city": "Amman",
+    "numberPhone": "0798565258",
+    "country": "Jordan"
+  }
+}
